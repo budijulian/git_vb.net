@@ -1,0 +1,206 @@
+F:\BelajarProgram\Visual Basic\Kasirku\Kasirku\bin\Debug\Kasirku.exe.config
+F:\BelajarProgram\Visual Basic\Kasirku\Kasirku\bin\Debug\Kasirku.exe
+F:\BelajarProgram\Visual Basic\Kasirku\Kasirku\bin\Debug\Kasirku.pdb
+F:\BelajarProgram\Visual Basic\Kasirku\Kasirku\bin\Debug\Kasirku.xml
+F:\BelajarProgram\Visual Basic\Kasirku\Kasirku\bin\Debug\MySql.Data.DLL
+F:\BelajarProgram\Visual Basic\Kasirku\Kasirku\obj\Debug\Kasirku.Form1.resources
+F:\BelajarProgram\Visual Basic\Kasirku\Kasirku\obj\Debug\Kasirku.FormLogin.resources
+F:\BelajarProgram\Visual Basic\Kasirku\Kasirku\obj\Debug\Kasirku.Resources.resources
+F:\BelajarProgram\Visual Basic\Kasirku\Kasirku\obj\Debug\Kasirku.Profile.resources
+F:\BelajarProgram\Visual Basic\Kasirku\Kasirku\obj\Debug\Kasirku.vbproj.GenerateResource.Cache
+F:\BelajarProgram\Visual Basic\Kasirku\Kasirku\obj\Debug\Kasirku.exe
+F:\BelajarProgram\Visual Basic\Kasirku\Kasirku\obj\Debug\Kasirku.xml
+F:\BelajarProgram\Visual Basic\Kasirku\Kasirku\obj\Debug\Kasirku.pdb
+F:\BelajarProgram\Visual Basic\Kasirku\Kasirku\obj\Debug\Kasirku.vbprojResolveAssemblyReference.cache
+F:\BelajarProgram\Visual Basic\Kasirku\Kasirku\obj\Debug\Kasirku.MasterHarga.resources
+F:\BelajarProgram\Visual Basic\Kasirku\Kasirku\obj\Debug\Kasirku.list.resources
+F:\BelajarProgram\Visual Basic\Kasirku\Kasirku\obj\Debug\Kasirku.Notif_Password.resources
+F:\BelajarProgram\Visual Basic\Kasirku\Kasirku\obj\Debug\Kasirku.AboutBox1.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\bin\Debug\Kasirku.exe.config
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\obj\Debug\Kasirku.exe
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\obj\Debug\Kasirku.xml
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\obj\Debug\Kasirku.pdb
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\bin\Debug\Kasirku.exe
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\bin\Debug\Kasirku.pdb
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\bin\Debug\Kasirku.xml
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\bin\Debug\MySql.Data.DLL
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\obj\Debug\Kasirku.vbprojResolveAssemblyReference.cache
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\obj\Debug\Kasirku.AboutBox1.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\obj\Debug\Kasirku.Form1.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\obj\Debug\Kasirku.FormLogin.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\obj\Debug\Kasirku.list.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\obj\Debug\Kasirku.MasterHarga.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\obj\Debug\Kasirku.Resources.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\obj\Debug\Kasirku.Notif_Password.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\obj\Debug\Kasirku.Profile.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\obj\Debug\Kasirku.vbproj.GenerateResource.Cache
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\obj\Debug\Kasirku.vbproj.ResolveComReference.cache
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\obj\Debug\Kasirku.DaftarOutlet.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\obj\Debug\Kasirku.Laporan.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5)\Kasirku\obj\Debug\Kasirku.Lupa_Password.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\bin\Debug\Kasirku.exe.config
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\obj\Debug\Kasirku.vbproj.ResolveComReference.cache
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\obj\Debug\Kasirku.exe
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\obj\Debug\Kasirku.xml
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\obj\Debug\Kasirku.pdb
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\bin\Debug\Kasirku.exe
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\bin\Debug\Kasirku.pdb
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\bin\Debug\Kasirku.xml
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\bin\Debug\MySql.Data.DLL
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\obj\Debug\Kasirku.vbprojResolveAssemblyReference.cache
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\obj\Debug\Kasirku.AboutBox1.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\obj\Debug\Kasirku.DaftarOutlet.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\obj\Debug\Kasirku.Form1.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\obj\Debug\Kasirku.FormLogin.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\obj\Debug\Kasirku.Laporan.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\obj\Debug\Kasirku.list.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\obj\Debug\Kasirku.Lupa_Password.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\obj\Debug\Kasirku.MasterHarga.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\obj\Debug\Kasirku.Resources.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\obj\Debug\Kasirku.Notif_Password.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\obj\Debug\Kasirku.Profile.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Copy (5) - Copy\Kasirku\obj\Debug\Kasirku.vbproj.GenerateResource.Cache
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\bin\Debug\Kasirku.exe.config
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\bin\Debug\Kasirku.exe
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\bin\Debug\Kasirku.pdb
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\bin\Debug\Kasirku.xml
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\bin\Debug\en\Kasirku.resources.dll
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\bin\Debug\MySql.Data.DLL
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.vbprojResolveAssemblyReference.cache
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.vbproj.ResolveComReference.cache
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.AboutBox1.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.grafik.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.CostTambahan.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.DaftarOutlet.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.Form1.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.FormLogin.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.Homepage.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.Laporan.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.list.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.Lupa_Password.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.MasterHarga.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.Resources.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.Notif_Password.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.Profile.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.Homepage.en.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.vbproj.GenerateResource.Cache
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\en\Kasirku.resources.dll
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.exe
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.xml
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.pdb
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.InputBarang.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.LaporanReport.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final\Kasirku\obj\Debug\Kasirku.TransaksiReport.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\bin\Debug\Kasirku.exe.config
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.vbproj.ResolveComReference.cache
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.exe
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.xml
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.pdb
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\bin\Debug\Kasirku.exe
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\bin\Debug\Kasirku.pdb
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\bin\Debug\Kasirku.xml
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\bin\Debug\en\Kasirku.resources.dll
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\bin\Debug\MySql.Data.DLL
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.vbprojResolveAssemblyReference.cache
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.AboutBox1.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.grafik.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.CostTambahan.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.DaftarOutlet.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.Form1.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.FormLogin.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.Homepage.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.InputBarang.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.Laporan.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.list.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.Lupa_Password.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.MasterHarga.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.Resources.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.Notif_Password.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.Profile.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.LaporanReport.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.TransaksiReport.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.Homepage.en.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\Kasirku.vbproj.GenerateResource.Cache
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (9)\Kasirku\obj\Debug\en\Kasirku.resources.dll
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Copy\Kasirku\bin\Debug\Kasirku.exe.config
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Copy\Kasirku\obj\Debug\Kasirku.vbproj.ResolveComReference.cache
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Copy\Kasirku\obj\Debug\Kasirku.exe
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Copy\Kasirku\obj\Debug\Kasirku.xml
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Copy\Kasirku\obj\Debug\Kasirku.pdb
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\bin\Debug\Kasirku.exe.config
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.vbproj.ResolveComReference.cache
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.exe
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.xml
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.pdb
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\bin\Debug\Kasirku.exe
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\bin\Debug\Kasirku.pdb
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\bin\Debug\Kasirku.xml
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\bin\Debug\en\Kasirku.resources.dll
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\bin\Debug\MySql.Data.DLL
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.vbprojResolveAssemblyReference.cache
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.AboutBox1.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.grafik.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.CostTambahan.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.DaftarOutlet.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.Form1.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.FormLogin.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.Homepage.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.InputBarang.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.Laporan.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.list.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.Lupa_Password.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.MasterHarga.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.Resources.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.Notif_Password.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.Profile.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.LaporanReport.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.TransaksiReport.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.Homepage.en.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\Kasirku.vbproj.GenerateResource.Cache
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (10) - Final -1\Kasirku\obj\Debug\en\Kasirku.resources.dll
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\bin\Debug\Kasirku.exe.config
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\bin\Debug\Kasirku.exe
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\bin\Debug\Kasirku.pdb
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\bin\Debug\Kasirku.xml
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\bin\Debug\en\Kasirku.resources.dll
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\bin\Debug\MySql.Data.DLL
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.vbprojResolveAssemblyReference.cache
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.vbproj.ResolveComReference.cache
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.AboutBox1.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.grafik.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.CostTambahan.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.DaftarOutlet.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.Form1.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.FormLogin.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.Homepage.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.InputBarang.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.Laporan.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.LaporanOutlet.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.LaporanTransaksi.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.list.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.Lupa_Password.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.MasterHarga.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.Resources.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.Notif_Password.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.Profile.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.Homepage.en.resources
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.vbproj.GenerateResource.Cache
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\en\Kasirku.resources.dll
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.exe
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.xml
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.pdb
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\bin\Debug\Kasirku.exe.manifest
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\bin\Debug\Kasirku.application
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.exe.manifest
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Kasirku.application
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\bin\Debug\CrystalDecisions.Shared.dll
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\bin\Debug\FlashControlV71.dll
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Interop.CRAXDDRT.dll
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Interop.CRDESIGNERLib.dll
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Interop.CRQUERYENGINE.dll
+F:\BelajarProgram\Visual Basic\Kasirku - Final - Copy (18) - Final -1 - Copy\Kasirku\obj\Debug\Interop.CrystalReportViewerExportLib.dll

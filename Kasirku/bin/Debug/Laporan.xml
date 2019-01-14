@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="NoPesanan" type="xs:string" minOccurs="0" />
+                <xs:element name="TanggalPesanan" type="xs:string" minOccurs="0" />
+                <xs:element name="NamaOutlet" type="xs:string" minOccurs="0" />
+                <xs:element name="Items" type="xs:double" minOccurs="0" />
+                <xs:element name="BiayaTambahan" type="xs:double" minOccurs="0" />
+                <xs:element name="KetTambahan" type="xs:string" minOccurs="0" />
+                <xs:element name="TotalBelanja" type="xs:double" minOccurs="0" />
+                <xs:element name="Penjualan" type="xs:double" minOccurs="0" />
+                <xs:element name="Keuntungan" type="xs:double" minOccurs="0" />
+                <xs:element name="Refund" type="xs:float" minOccurs="0" />
+                <xs:element name="Keterangan" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <NoPesanan>25/12/2018MEK100849</NoPesanan>
+    <TanggalPesanan>20/12/2018</TanggalPesanan>
+    <NamaOutlet>Mekar Sari Comp</NamaOutlet>
+    <Items>7</Items>
+    <BiayaTambahan>42000</BiayaTambahan>
+    <KetTambahan>Bensin: 20000 Makan: 20000 Transportasi: 2000 </KetTambahan>
+    <TotalBelanja>178500</TotalBelanja>
+    <Penjualan>347000</Penjualan>
+    <Keuntungan>126500</Keuntungan>
+    <Refund>0</Refund>
+    <Keterangan>LUNAS</Keterangan>
+  </Table>
+  <Table>
+    <NoPesanan>25/12/2018MEK100106</NoPesanan>
+    <TanggalPesanan>25/12/2018</TanggalPesanan>
+    <NamaOutlet>Mekar Sari Comp</NamaOutlet>
+    <Items>3</Items>
+    <BiayaTambahan>20000</BiayaTambahan>
+    <KetTambahan>Makan: 10000 Bensin: 10000 </KetTambahan>
+    <TotalBelanja>93000</TotalBelanja>
+    <Penjualan>160000</Penjualan>
+    <Keuntungan>47000</Keuntungan>
+    <Refund>0</Refund>
+    <Keterangan>LUNAS</Keterangan>
+  </Table>
+</NewDataSet>

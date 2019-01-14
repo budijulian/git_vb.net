@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="NoTransaksi" type="xs:string" minOccurs="0" />
+                <xs:element name="NamaOutlet" type="xs:string" minOccurs="0" />
+                <xs:element name="TanggalPesanan" type="xs:string" minOccurs="0" />
+                <xs:element name="NamaPesanan" type="xs:string" minOccurs="0" />
+                <xs:element name="JenisOrder" type="xs:string" minOccurs="0" />
+                <xs:element name="Banyak" type="xs:string" minOccurs="0" />
+                <xs:element name="Satuan" type="xs:string" minOccurs="0" />
+                <xs:element name="HargaJualS" type="xs:double" minOccurs="0" />
+                <xs:element name="HargaJual" type="xs:double" minOccurs="0" />
+                <xs:element name="Keterangan" type="xs:string" minOccurs="0" />
+                <xs:element name="Refund" type="xs:float" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+</NewDataSet>

@@ -1,0 +1,132 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Kasirku
+</name>
+</assembly>
+<members>
+<member name="P:Kasirku.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources._1486564172_finance_loan_money_81492">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources._1486564177_finance_finance_calculator_81497">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources._1486564179_finance_saving_81499">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.actions_document_print_15785__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.applicationpdf_92726">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.business_application_addmale_useradd_insert_add_user_client_2312">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.business_salesreport_salesreport_negocio_2353">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.button_exit_15724">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.button_important_15722">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.clock_time_6979">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.configuration_config_system_1540">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.contactlist_theuser_802">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.date_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.home_house_3526">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.Icon_02">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.icons8_microsoft_excel_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.icons8_microsoft_excel_481">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.key_password_lock_800">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.lightbrown_books_folders_12307">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.log_logout_door_1563">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.Logo_Aneka_Supplier_Supplier_Sayuran_Buah_Daging_Telur_Beras_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.note_edit_12872__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.person_user_customer_man_male_man_boy_people_1687">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.person_user_customer_man_male_man_boy_people_1687__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.search_15649">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.shopping_basket_add256_24909">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Kasirku.My.Resources.Resources.user_id_icon_34334">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Kasirku.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

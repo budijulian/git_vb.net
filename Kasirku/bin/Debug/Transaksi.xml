@@ -1,0 +1,158 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="NoTransaksi" type="xs:string" minOccurs="0" />
+                <xs:element name="NamaOutlet" type="xs:string" minOccurs="0" />
+                <xs:element name="TanggalPesanan" type="xs:string" minOccurs="0" />
+                <xs:element name="NamaPesanan" type="xs:string" minOccurs="0" />
+                <xs:element name="JenisOrder" type="xs:string" minOccurs="0" />
+                <xs:element name="Banyak" type="xs:string" minOccurs="0" />
+                <xs:element name="Satuan" type="xs:string" minOccurs="0" />
+                <xs:element name="HargaJualS" type="xs:double" minOccurs="0" />
+                <xs:element name="HargaJual" type="xs:double" minOccurs="0" />
+                <xs:element name="Keterangan" type="xs:string" minOccurs="0" />
+                <xs:element name="Refund" type="xs:float" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <NoTransaksi>100384ADI768</NoTransaksi>
+    <NamaOutlet>Adipura Jaya Hotel</NamaOutlet>
+    <TanggalPesanan>05/01/2019</TanggalPesanan>
+    <NamaPesanan>Gula Merah</NamaPesanan>
+    <JenisOrder>Others</JenisOrder>
+    <Banyak>12</Banyak>
+    <Satuan>kg</Satuan>
+    <HargaJualS>20000</HargaJualS>
+    <HargaJual>240000</HargaJual>
+    <Keterangan>Sale</Keterangan>
+    <Refund>0</Refund>
+  </Table>
+  <Table>
+    <NoTransaksi>100149ADI298</NoTransaksi>
+    <NamaOutlet>Adipura Jaya Hotel</NamaOutlet>
+    <TanggalPesanan>05/01/2019</TanggalPesanan>
+    <NamaPesanan>Kentang</NamaPesanan>
+    <JenisOrder>Vegetables</JenisOrder>
+    <Banyak>5</Banyak>
+    <Satuan>kg</Satuan>
+    <HargaJualS>25000</HargaJualS>
+    <HargaJual>125000</HargaJual>
+    <Keterangan>Sale</Keterangan>
+    <Refund>0</Refund>
+  </Table>
+  <Table>
+    <NoTransaksi>100245ADI490</NoTransaksi>
+    <NamaOutlet>Adipura Jaya Hotel</NamaOutlet>
+    <TanggalPesanan>05/01/2019</TanggalPesanan>
+    <NamaPesanan>apel</NamaPesanan>
+    <JenisOrder>Fruit</JenisOrder>
+    <Banyak>5</Banyak>
+    <Satuan>kg</Satuan>
+    <HargaJualS>10000</HargaJualS>
+    <HargaJual>50000</HargaJual>
+    <Keterangan>Sale</Keterangan>
+    <Refund>0</Refund>
+  </Table>
+  <Table>
+    <NoTransaksi>100758ADI1516</NoTransaksi>
+    <NamaOutlet>Adipura Jaya Hotel</NamaOutlet>
+    <TanggalPesanan>05/01/2019</TanggalPesanan>
+    <NamaPesanan>Daun Seledri</NamaPesanan>
+    <JenisOrder>Vegetables</JenisOrder>
+    <Banyak>8</Banyak>
+    <Satuan>kg</Satuan>
+    <HargaJualS>15000</HargaJualS>
+    <HargaJual>120000</HargaJual>
+    <Keterangan>Sale</Keterangan>
+    <Refund>0</Refund>
+  </Table>
+  <Table>
+    <NoTransaksi>100815ADI1630</NoTransaksi>
+    <NamaOutlet>Adipura Jaya Hotel</NamaOutlet>
+    <TanggalPesanan>05/01/2019</TanggalPesanan>
+    <NamaPesanan>Kemangi</NamaPesanan>
+    <JenisOrder>Vegetables</JenisOrder>
+    <Banyak>9</Banyak>
+    <Satuan>Kg</Satuan>
+    <HargaJualS>8000</HargaJualS>
+    <HargaJual>72000</HargaJual>
+    <Keterangan>Sale</Keterangan>
+    <Refund>0</Refund>
+  </Table>
+  <Table>
+    <NoTransaksi>100237ADI474</NoTransaksi>
+    <NamaOutlet>Adipura Jaya Hotel</NamaOutlet>
+    <TanggalPesanan>05/01/2019</TanggalPesanan>
+    <NamaPesanan>Pisang Thai</NamaPesanan>
+    <JenisOrder>Vegetables</JenisOrder>
+    <Banyak>7</Banyak>
+    <Satuan>kg</Satuan>
+    <HargaJualS>30000</HargaJualS>
+    <HargaJual>210000</HargaJual>
+    <Keterangan>Sale</Keterangan>
+    <Refund>0</Refund>
+  </Table>
+  <Table>
+    <NoTransaksi>100084ADI168</NoTransaksi>
+    <NamaOutlet>Adipura Jaya Hotel</NamaOutlet>
+    <TanggalPesanan>05/01/2019</TanggalPesanan>
+    <NamaPesanan>Telur Ayam</NamaPesanan>
+    <JenisOrder>Others</JenisOrder>
+    <Banyak>10</Banyak>
+    <Satuan>kg</Satuan>
+    <HargaJualS>25000</HargaJualS>
+    <HargaJual>250000</HargaJual>
+    <Keterangan>Sale</Keterangan>
+    <Refund>0</Refund>
+  </Table>
+  <Table>
+    <NoTransaksi>100438ADI876</NoTransaksi>
+    <NamaOutlet>Adipura Jaya Hotel</NamaOutlet>
+    <TanggalPesanan>05/01/2019</TanggalPesanan>
+    <NamaPesanan>Wortel</NamaPesanan>
+    <JenisOrder>Vegetables</JenisOrder>
+    <Banyak>3</Banyak>
+    <Satuan>kg</Satuan>
+    <HargaJualS>16000</HargaJualS>
+    <HargaJual>48000</HargaJual>
+    <Keterangan>Sale</Keterangan>
+    <Refund>0</Refund>
+  </Table>
+  <Table>
+    <NoTransaksi>100392ADI784</NoTransaksi>
+    <NamaOutlet>Adipura Jaya Hotel</NamaOutlet>
+    <TanggalPesanan>05/01/2019</TanggalPesanan>
+    <NamaPesanan>Tomat</NamaPesanan>
+    <JenisOrder>Vegetables</JenisOrder>
+    <Banyak>2</Banyak>
+    <Satuan>kg</Satuan>
+    <HargaJualS>15000</HargaJualS>
+    <HargaJual>30000</HargaJual>
+    <Keterangan>Sale</Keterangan>
+    <Refund>0</Refund>
+  </Table>
+  <Table>
+    <NoTransaksi>100499ADI998</NoTransaksi>
+    <NamaOutlet>Adipura Jaya Hotel</NamaOutlet>
+    <TanggalPesanan>05/01/2019</TanggalPesanan>
+    <NamaPesanan>Pisang</NamaPesanan>
+    <JenisOrder>Fruit</JenisOrder>
+    <Banyak>10</Banyak>
+    <Satuan>ikat</Satuan>
+    <HargaJualS>10000</HargaJualS>
+    <HargaJual>100000</HargaJual>
+    <Keterangan>Sale</Keterangan>
+    <Refund>0</Refund>
+  </Table>
+</NewDataSet>
